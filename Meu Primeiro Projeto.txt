@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site De Aulas!</title>
+</head>
+<body>
+    <h1>Páragrafos e quebras</h1>
+    <hr>
+    <p>Creditos Ao Gustavo Guanabara</p>
+   <hr>
+   <p>Você pode Tudo se... <br> Tentar!</p>
+   <hr>
+   <p>crie parágrafos incriveis no vs code com &lt;p&gt;&lt;/p&gt; </p>
+   <hr>
+   <p>Alguns Simbolos...como este: <br> &copy;<br>&trade;<br>&real;<br>&euro;</p>
+   <hr>
+   <p>Bom...Vamos Agora invés de Simbolos Agora é Emoji!</p>
+   <p>🗿🍷 Fino Senhores!</p>
+   <p>😉</p>
+   <p>Bom... Já Sabemos Que Dá Para Colocar Emojis!</p>
+   <hr>
+
+</body>
+</html>
+
+Esse é meu primeiro Projeto!
+Eu tenho 8 anos me chamo pedro e amo HTML e CSS eu ainda sou iniciante e creditos ao:gustavo guanabara
